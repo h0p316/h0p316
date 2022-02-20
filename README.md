@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Amod Kumar 👋 I'm a 🚀 Web developer 🚀 I ❤️ Happy Hardcore ❤️">
-</p>
-
 
 <h2> Hi, I'm Amod Kumar <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
